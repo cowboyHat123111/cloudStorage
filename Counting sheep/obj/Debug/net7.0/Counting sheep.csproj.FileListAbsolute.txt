@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\bin\Debug\net7.0\Counting sheep.exe
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\bin\Debug\net7.0\Counting sheep.deps.json
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\bin\Debug\net7.0\Counting sheep.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\bin\Debug\net7.0\Counting sheep.dll
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\bin\Debug\net7.0\Counting sheep.pdb
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\obj\Debug\net7.0\Counting sheep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\obj\Debug\net7.0\Counting sheep.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\obj\Debug\net7.0\Counting sheep.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\obj\Debug\net7.0\Counting sheep.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\obj\Debug\net7.0\Counting sheep.dll
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\obj\Debug\net7.0\refint\Counting sheep.dll
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\obj\Debug\net7.0\Counting sheep.pdb
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\obj\Debug\net7.0\Counting sheep.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Counting sheep\Counting sheep\obj\Debug\net7.0\ref\Counting sheep.dll
