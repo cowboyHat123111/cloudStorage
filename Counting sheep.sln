@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting sheep", "Counting sheep\Counting sheep.csproj", "{B4820E26-4670-4449-B678-85941F13B57E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{33022823-06C5-416C-9969-E4E3D39462DE}"
+	ProjectSection(SolutionItems) = preProject
+		Instructions.txt = Instructions.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4820E26-4670-4449-B678-85941F13B57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4820E26-4670-4449-B678-85941F13B57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4820E26-4670-4449-B678-85941F13B57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4820E26-4670-4449-B678-85941F13B57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E50B4B-914B-4B29-80D0-67834EFBA43F}
+	EndGlobalSection
+EndGlobal
